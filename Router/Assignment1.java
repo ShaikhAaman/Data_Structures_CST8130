@@ -5,7 +5,7 @@ import java.util.*;
 /*****************************************************************************************
  * // class Assignment1 
  * // Purpose: This class represents a router 
- * Linda Crane,   CST8130
+ * Mohammedaaman Shaikh,   CST8130
  *  method main - This program asks user for name of file and connects to that file,
  *  then reads each line of the file as a packet and processes it(either data packet or routing protocol 
  *  packet based on first char input on the line)  
