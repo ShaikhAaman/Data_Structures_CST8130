@@ -1,7 +1,7 @@
 /*****************************************************************************************
  * // class DataPacket extends Packet
  * // Purpose: This class represents a data packet
- * Linda Crane,   CST8130
+ * Mohammedaaman Shaikh,   CST8130
  * // data members:
  * //  
  * // methods: 
