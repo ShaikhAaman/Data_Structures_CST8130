@@ -3,7 +3,7 @@ import java.util.*;
 /*****************************************************************************************
  * class IPAddress 
  * Purpose: This class represents the four octets and subnet mask of an IP address 
- * Author: Mohammedaaman Shaikh  
+ * Author: Linda Crane  
  * data members: 
  *   address - array of four ints for each octet 
  *   subnet - number of network bits (CIDR notation) 
