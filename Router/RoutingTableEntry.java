@@ -1,6 +1,6 @@
 /*****************************************************************************************
  * // class RoutingTableEntry
- * Linda Crane,   CST8130    
+ * Mohammedaaman Shaikh,   CST8130    
  * // Purpose: This class represents an entry in the  routing table 
  * // data members: destination - an IP address of the destination network 
  * // portCode - and description of port to go out 
