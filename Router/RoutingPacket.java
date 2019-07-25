@@ -1,7 +1,7 @@
 /*****************************************************************************************
  * // class RoutingPacket extends Packet
  * // Purpose: This class represents a routing protocol packet
- * Linda Crane,   CST8130
+ * Mohammedaaman Shaikh,   CST8130
  * // data members:
  * //  
  * // methods: 
