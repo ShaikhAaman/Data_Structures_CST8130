@@ -3,7 +3,7 @@ import java.io.IOException;
 /*****************************************************************************************
  * class Packet (base class for RoutingPacket and DataPacket)
  * Purpose: This class represents a generic packet
- * Linda Crane,   CST8130
+ * Mohammedaaman Shaikh,   CST8130
  * data members:
  *     sourceAddress - object of IPAddress representing source
  *     destAddress - object of IPAddress representing destination
