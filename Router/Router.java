@@ -4,7 +4,7 @@ import java.io.*;
 /*****************************************************************************************
  * // class Router 
  * // Purpose: This class represents a router 
- * Linda Crane,   CST8130
+ * Mohammedaaman Shaikh,   CST8130
  * // data members:
  * //  routingTable - to hold up to MaxEntries routing table entries 
  * //  numEntries - number of entries currently in the table  
